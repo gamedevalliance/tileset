@@ -12,21 +12,21 @@ Les graphismes répondent à plusieurs contraintes :
 
 Envie de rejoindre le projet ? Rejoignez-nous [sur Discord](https://discordapp.com/invite/RrBppaj), et demandez à un modérateur de vous ajouter au channel de discussion #tileset-collaboratif.
 
-=======
+---
 
 # La palette :
 ![Palette](Palette.png)
 
 # Le Tileset :
-##A2
-![A2](Images/Kustom_A2)
-##A3
-![A3](Images/Kustom_A3)
-##A5
-![A5](Images/Kustom_A5)
-##B
-![B](Images/Kustom_B)
+## A2
+![A2](Images/Kustom_A2.png)
+## A3
+![A3](Images/Kustom_A3.png)
+## A5
+![A5](Images/Kustom_A5.png)
+## B
+![B](Images/Kustom_B.png)
 
-=======
+---
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
