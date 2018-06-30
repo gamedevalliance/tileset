@@ -4,5 +4,6 @@ RPG Maker Alliance est une communauté francophone de passionné·es de RPG Make
 
 Le projet de tileset collaboratif est un de nos nombreux événements communautaires. L'objectif ? Réaliser collectivement des ressources graphiques pour RPG Maker qui seront ensuite diffusés gratuitement sur notre Wiki (tout comme notre [RPG Maker VX ace Starter Pack](https://wiki.rpgmakeralliance.com/starterpack))
 
-Envie de rejoindre le projet ? Rejoignez nous [sur Discord](https://discordapp.com/invite/RrBppaj), et demandez à un modérateur de vous ajouter au channel de discussion #tileset-collaboratif
+Les graphismes répondent à plusieurs contraintes : Utilisation d'une palette de couleurs limités (disponible sur le git) et taille des tiles de 16 pixels sur 16 pixels. Le tileset doit être adaptable aux logiciels RPG Maker.
 
+Envie de rejoindre le projet ? Rejoignez nous [sur Discord](https://discordapp.com/invite/RrBppaj), et demandez à un modérateur de vous ajouter au channel de discussion #tileset-collaboratif
