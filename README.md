@@ -1,4 +1,4 @@
-# Tileset participatif RPG Maker Alliance !
+﻿# Tileset participatif RPG Maker Alliance !
 ![Bannière d'accueil](https://wiki.rpgmakeralliance.com/images/accueil/banniere.png)
 
 RPG Maker Alliance est une communauté francophone de passionné·es de RPG Maker. En plus de gérer le [wiki français RPG Maker Alliance](https://wiki.rpgmakeralliance.com/), nous organisons régulièrement [des jams](https://rpgmakeralliance.itch.io/) et animons la communauté autour d'un [Discord](https://discordapp.com/invite/RrBppaj), d'un [forum](https://rpgmakeralliance.com/) et d'une [chaîne Youtube](https://www.youtube.com/user/FoxFiesta40) !
@@ -11,3 +11,16 @@ Les graphismes répondent à plusieurs contraintes :
 - Taille des tiles de 16 pixels sur 16 pixels. Le tileset doit être adaptable aux logiciels RPG Maker.
 
 Envie de rejoindre le projet ? Rejoignez-nous [sur Discord](https://discordapp.com/invite/RrBppaj), et demandez à un modérateur de vous ajouter au channel de discussion #tileset-collaboratif.
+
+# La palette :
+![Palette](Palette.png)
+
+# Le Tileset :
+##A2
+![A2](Images/Kustom_A2)
+##A3
+![A3](Images/Kustom_A3)
+##A5
+![A5](Images/Kustom_A5)
+##B
+![B](Images/Kustom_B)
