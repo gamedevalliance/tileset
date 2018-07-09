@@ -35,9 +35,9 @@ Pour rejoindre le projet, rendez-vous [sur Discord](https://discordapp.com/invit
 
 ## 1. Modifiez le tileset
 
-Vous êtes un artiste. Un vrai de vrai. Alors vous allez ouvrir l’un des fichiers dans `tileset_collaboratif/Graphics/Tilesets` et laisser parler votre inspiration soudaine en utilisant votre logiciel favori : Photoshop, Krita, Paint.Net…
+Vous êtes un artiste. Un vrai de vrai. Alors vous allez ouvrir l’un des fichiers dans `projet/Graphics/Tilesets` et laisser parler votre inspiration soudaine en utilisant votre logiciel favori : Photoshop, Krita…
 
-Il va de soi que les fichiers dont le nom commence par PASTOUCHE, ben, il faut pas y toucher.
+Il va de soi que les fichiers dont le nom commence par `PASTOUCHE`, ben, il faut pas y toucher.
 
 Par exemple, allez hop je rajoute un rocher sur `Kustom_B` (en bas à droite):
 
